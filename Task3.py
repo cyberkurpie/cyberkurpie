@@ -33,13 +33,6 @@ Print the answer as part of a message:
  <list of codes>
 The list of codes should be print out one per line in lexicographic order with no duplicates."""
 
-#def isMobileNumber:
-    #pass
-#def isTelemark:
-    #pass
-#def isFixedLine:
-    #pass
-#is_mobilenumber=[[item[1] for item in calllist if item[1].startswith('(')] for
 def isBangalore(calllist):
     for item in calllist:
         if item[0].startswith("(080)"):
