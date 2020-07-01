@@ -1,0 +1,33 @@
+/* add your CSS here */
+.outerbox{width:320px;
+padding: 10px;
+border:1px solid gray;
+box-shadow: 5px 5px lightgray;
+display:flex;
+flex-wrap: wrap;
+justify-content: center;
+}
+
+#title{margin-right: auto;
+}
+
+.img{width:300px;
+}
+
+.info{width:288px;
+  padding: 5px;
+border: 1px solid lightgray;
+margin-top: 10px}
+
+#fact{
+  font-style: italic;}
+
+
+
+ul{list-style: none;
+padding-left: 0px;
+}
+
+li span{font-weight: bold;}
+
+#description{font-style: italic;}
