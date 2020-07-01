@@ -1,0 +1,15 @@
+p{color:purple;}
+.box {
+  display: flex;
+  flex-direction: row-reverse;
+  flex-wrap: wrap-reverse;
+  justify-content: space-around;
+  align-items: center;
+  border:red;
+}
+.container{
+  float: right;
+  border: 5px;
+  border-color: coral;
+
+}
